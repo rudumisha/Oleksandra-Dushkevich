@@ -1,0 +1,33 @@
+img{
+    width:800px;
+    height:500px;
+}
+
+img{
+    width: 800px;
+    height: 500px;
+}
+
+h1 {
+    color: blueviolet;
+    background-color: bisque;
+    text-align: center;
+    font-size: 35px;
+    padding: 10px;
+}
+
+body {
+    background-color: plum;
+}
+p{
+text-align: center;
+font-size: 20px;
+}
+tr{
+background-color: white;
+}
+table{
+    text-align: center;
+    font-size: 25px;
+    margin: 0 auto;
+}
